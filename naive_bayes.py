@@ -46,9 +46,10 @@ class NaiveBayes():
         return max(class_probabilities, key=class_probabilities.get) if any(class_probabilities.values()) != 0 else 'neutral'
     
 
-nb = NaiveBayes(training_data)
-nb.train()
+if __name__ == '__main__':
+    nb = NaiveBayes(training_data)
+    nb.train()
 
-print(nb.classify("I really love this hotel. It's great"))
-print(nb.classify("Who created this terrible movie? Why is it so bad?"))
-print(nb.classify("I think it's okay."))
+    print(nb.classify("I really love this hotel. It's great"))
+    print(nb.classify("Who created this terrible movie? Why is it so bad?"))
+    print(nb.classify("I think it's okay."))
