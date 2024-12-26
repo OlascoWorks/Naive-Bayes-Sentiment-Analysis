@@ -61,6 +61,10 @@ python naive_bayes_sentiment.py
 ```
 
 
+## Testing
+To test the accuracy of the file, run `test.py`. You can add your own testing datasets by overwriting `test.json`
+
+
 <br></br>
 ## Example Usage
 Input:
