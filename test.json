@@ -1,0 +1,122 @@
+[
+    {
+        "text": "The room was spacious and the view was breathtaking.",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "I had to wait for over an hour. Very frustrating!",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The presentation was fine, though it wasn’t particularly memorable.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "This phone’s camera quality is exceptional. I’m impressed!",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The app crashes every time I open it. Completely useless.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The experience was okay, neither good nor bad.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The staff were so friendly and made my stay wonderful.",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The product was defective and didn’t work as advertised.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The course content was decent, but the pace was a bit slow.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The performance was absolutely stunning. Well done!",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The customer service was rude and unhelpful. Never again.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The movie was neither amazing nor terrible. Just average.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The flavors in this dish are out of this world. A must-try!",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The delivery was delayed, and the item arrived damaged.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The event was well-organized but lacked excitement.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The quality of this fabric is top-notch. Very satisfied.",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The AC unit is noisy and doesn’t cool the room properly.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The documentary was informative, though a bit dry at times.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The live band was phenomenal. They really brought the party to life.",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The battery life is terrible. It barely lasts a few hours.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The user interface is intuitive but could use more customization options.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The concert was unforgettable. Such an amazing atmosphere!",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The keyboard keys are stiff and make typing uncomfortable.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The restaurant was clean, but the food was just okay.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The vacation exceeded all my expectations. Truly incredible!",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The software update introduced even more bugs. Ridiculous!",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The tutorial covered the basics but skipped advanced features.",
+        "sentiment": "Neutral"
+    },
+    {
+        "text": "The customer support team went above and beyond to assist me.",
+        "sentiment": "Positive"
+    },
+    {
+        "text": "The screen resolution is poor, making the visuals hard to enjoy.",
+        "sentiment": "Negative"
+    },
+    {
+        "text": "The game is fun, though it gets repetitive after a while.",
+        "sentiment": "Neutral"
+    }
+]
